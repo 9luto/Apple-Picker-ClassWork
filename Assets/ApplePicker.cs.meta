@@ -1,11 +1,12 @@
 fileFormatVersion: 2
 guid: 7704e9dd66eea8940a2c053d1c1b621c
-timeCreated: 1553611347
+timeCreated: 1554823207
 licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - basketPrefab: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
